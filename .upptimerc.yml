@@ -1,0 +1,18 @@
+owner: Exact-Realty
+repo: upptime-page
+
+sites:
+  - name: "Exact Realty (main site)"
+    url: https://exact.realty/.well-known/time
+
+status-website:
+  cname: status.exact.realty
+  logoUrl: https://raw.githubusercontent.com/$OWNER/$REPO/master/static/img/icon.svg
+  name: Status | Exact Realty
+  introTitle: "Exact Realty status"
+  introMessage: "Public uptime status page for Exact Realty properties."
+  navbar:
+    - title: Home
+      href: https://exact.realty/
+    - title: Status
+      href: /
